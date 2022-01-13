@@ -206,6 +206,17 @@ print(my_str[1].isascii())
 print(my_str[-1])  # last element
 print(len(my_str))  # count of elements in string
 
+my_str1 = 'A'
+my_str2 = 'B'
+
+print(my_str1 == my_str2)
+
+my_str = input('Enter here: ')
+print('Thank you')
+print(my_str)
+print(type(my_str))
+
+
 
 
 
